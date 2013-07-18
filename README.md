@@ -5,7 +5,7 @@ Simple C++ in-memory database with not simple code.
 
 ### Example:
 
-Declare fields of table:
+Declare table fields:
 ```c++
 struct id: cxxdb::field<size_t> {};
 struct name: cxxdb::field<std::string> {};
