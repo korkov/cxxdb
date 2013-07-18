@@ -1,7 +1,7 @@
 cxxdb
 =====
 
-Simple C++ memory database (multi index storage) with not simple code.
+Simple C++ in-memory database with not simple code.
 
 ### Example:
 
